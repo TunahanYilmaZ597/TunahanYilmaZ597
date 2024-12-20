@@ -44,10 +44,7 @@ struct p{
 }
 ````
 
-````python
-def main ():
-    print("Hello World !")
-````
+
 
 ![ciel](https://picsum.photos/seed/picsum/200/300)]
 
